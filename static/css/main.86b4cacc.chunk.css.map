@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.scss"],"names":[],"mappings":"AAAA,KACE,wBAA2B,CAC3B,YAAa,CACb,QAAS","file":"main.86b4cacc.chunk.css","sourcesContent":[".App {\n  background-color: lightcyan;\n  height: 100vh;\n  margin: 0;\n  \n}\n"]}

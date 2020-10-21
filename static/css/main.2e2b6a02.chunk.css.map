@@ -1,1 +1,0 @@
-{"version":3,"sources":["Clock.scss","App.scss"],"names":[],"mappings":"AAAA,QACE,iBAAkB,CCDpB,KACE,wBAA2B,CAC3B,YAAa,CACb,QAAS","file":"main.2e2b6a02.chunk.css","sourcesContent":[".hidden {\n  visibility: hidden;\n}\n",".App {\n  background-color: lightcyan;\n  height: 100vh;\n  margin: 0;\n  \n}\n"]}
